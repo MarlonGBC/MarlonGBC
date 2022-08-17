@@ -1,4 +1,4 @@
-## Fala meus amigos, sou a Marlon Gabriel, entusiasta no mundo da tecnologia!
+## Fala meus amigos, sou o Marlon Gabriel, entusiasta no mundo da tecnologia!
 
 <div align="center">
   <a href="https://github.com/MarlonGBC">
